@@ -1,6 +1,6 @@
 # 💱 Currency Converter JS
 
-🌐 Live Demo: (Add your live link here)
+🌐 Live Demo: https://anjali-singhal-code.github.io/currency-converter-js/
 
 A responsive and interactive Currency Converter web application built using HTML, CSS, and JavaScript. This project allows users to convert currencies in real time, swap currencies, and display country flags dynamically using APIs.
 
